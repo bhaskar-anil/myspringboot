@@ -1,4 +1,4 @@
-# myspringboot
+# spring-boot-docker
 Spring Boot Application with Docker
 
 Steps to get it running:
